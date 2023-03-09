@@ -3,7 +3,7 @@ export function Navbar() {
     
   
     return (
-      <nav className="bg-[#809BCE] p-6 flex items-center">
+      <nav className=" x p-6 flex items-center">
   <div className="flex items-center">
     <a href="/home" className="text-white font-bold text-lg">
       Home
