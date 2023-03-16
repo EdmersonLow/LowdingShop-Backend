@@ -1,0 +1,32 @@
+Date : 2023-03-16 11:03:36
+Directory : /Users/edmersonlow/Desktop/Web Development/E-Commerce-Website-IM2073-Project/tomcat/webapps/lowdingshop/WEB-INF/classes
+Total : 8 files,  316 codes, 39 comments, 31 blanks, all 386 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Java     |          8 |        316 |         39 |         31 |        386 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                                           | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                                              |          8 |        316 |         39 |         31 |        386 |
++------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                                                       | language | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| /Users/edmersonlow/Desktop/Web Development/E-Commerce-Website-IM2073-Project/tomcat/webapps/lowdingshop/WEB-INF/classes/CO.class               | Java     |         35 |          0 |          0 |         35 |
+| /Users/edmersonlow/Desktop/Web Development/E-Commerce-Website-IM2073-Project/tomcat/webapps/lowdingshop/WEB-INF/classes/CO.java                | Java     |         48 |         33 |         12 |         93 |
+| /Users/edmersonlow/Desktop/Web Development/E-Commerce-Website-IM2073-Project/tomcat/webapps/lowdingshop/WEB-INF/classes/CheckUserServlet.class | Java     |         33 |          0 |          0 |         33 |
+| /Users/edmersonlow/Desktop/Web Development/E-Commerce-Website-IM2073-Project/tomcat/webapps/lowdingshop/WEB-INF/classes/CheckUserServlet.java  | Java     |         40 |          2 |          6 |         48 |
+| /Users/edmersonlow/Desktop/Web Development/E-Commerce-Website-IM2073-Project/tomcat/webapps/lowdingshop/WEB-INF/classes/QueryServlet.class     | Java     |         34 |          0 |          0 |         34 |
+| /Users/edmersonlow/Desktop/Web Development/E-Commerce-Website-IM2073-Project/tomcat/webapps/lowdingshop/WEB-INF/classes/QueryServlet.java      | Java     |         46 |          2 |          7 |         55 |
+| /Users/edmersonlow/Desktop/Web Development/E-Commerce-Website-IM2073-Project/tomcat/webapps/lowdingshop/WEB-INF/classes/createUser.class       | Java     |         37 |          0 |          0 |         37 |
+| /Users/edmersonlow/Desktop/Web Development/E-Commerce-Website-IM2073-Project/tomcat/webapps/lowdingshop/WEB-INF/classes/createUser.java        | Java     |         43 |          2 |          6 |         51 |
+| Total                                                                                                                                          |          |        316 |         39 |         31 |        386 |
++------------------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

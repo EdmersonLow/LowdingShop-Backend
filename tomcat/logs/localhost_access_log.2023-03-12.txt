@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [12/Mar/2023:20:14:03 +0800] "GET /lowdingshop/query HTTP/1.1" 200 2806
+0:0:0:0:0:0:0:1 - - [12/Mar/2023:20:14:31 +0800] "GET /lowdingshop/query HTTP/1.1" 200 2806
+0:0:0:0:0:0:0:1 - - [12/Mar/2023:20:14:35 +0800] "GET /lowdingshop/query HTTP/1.1" 200 2806
+0:0:0:0:0:0:0:1 - - [12/Mar/2023:20:14:49 +0800] "GET /lowdingshop/checkout?qty=1&_id=2 HTTP/1.1" 200 2806
+0:0:0:0:0:0:0:1 - - [12/Mar/2023:20:14:49 +0800] "GET /lowdingshop/checkout?qty=1&_id=3 HTTP/1.1" 200 2806
+0:0:0:0:0:0:0:1 - - [12/Mar/2023:20:14:49 +0800] "GET /lowdingshop/checkout?qty=1&_id=7 HTTP/1.1" 200 2807
+0:0:0:0:0:0:0:1 - - [12/Mar/2023:20:14:49 +0800] "GET /lowdingshop/checkout?qty=1&_id=6 HTTP/1.1" 200 2807
+0:0:0:0:0:0:0:1 - - [12/Mar/2023:20:15:16 +0800] "GET /lowdingshop/query HTTP/1.1" 200 2807
